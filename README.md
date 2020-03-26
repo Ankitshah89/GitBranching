@@ -16,3 +16,4 @@
 * 'git branch' - List local branches, highlight checked-out branches
 * 'git branch branchName' - Create branch 'branchName'
 * 'git checkout branchName' - Move to branch 'branchName'
+* 'git push origin branchName' - Push local branch 'branchName' to origin
