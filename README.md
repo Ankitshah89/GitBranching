@@ -1,7 +1,10 @@
 ## Git Branching
 
+
+### OverView
+
 Overview and cheat sheet of Git commands. Introduction to Branching.
- 
+
 
 ### Basic Commands
 
@@ -12,6 +15,3 @@ Overview and cheat sheet of Git commands. Introduction to Branching.
 * 'git rm --cached fileName' - Remove fileName from commit index
 * 'git log' - Show commit history
 * 'git log --oneline' - Show commit history (compact)
-
-
-###  
