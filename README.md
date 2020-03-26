@@ -1,5 +1,9 @@
 ## Git Branching
 
+### Overview
+
+ Overview and cheat sheet of Git commands. Introduction to Branching.
+
 ### Basic Commands
 
 * 'git init' - Initialize Git in working directory
