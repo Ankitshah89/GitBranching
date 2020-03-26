@@ -10,7 +10,6 @@
 * 'git log' - Show commit history
 * 'git log --oneline' - Show commit history (compact)
 
-
 ###  Basic Branching
 
 * 'git branch' - List local branches, highlight checked-out branches
