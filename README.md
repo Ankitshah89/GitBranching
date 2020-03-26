@@ -11,4 +11,8 @@
 * 'git log --oneline' - Show commit history (compact)
 
 
-###  
+###  Basic Branching
+
+* 'git branch' - List local branches, highlight checked-out branches
+* 'git branch branchName' - Create branch 'branchName'
+* 'git checkout branchName' - Move to branch 'branchName'
