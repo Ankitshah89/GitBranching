@@ -19,3 +19,4 @@ Overview and cheat sheet of Git commands. Introduction to Branching.
 * 'git remote add origin remoteRepoUrl' - Link local repo to 'remoteRepoUrl'
 * 'git pull origin master' - Pull 'master' branch content from remote origin into current local Branching
 * 'git push origin master' - Push current local branch to 'master' branch of remote origin
+* 'git remote show origin' - To Sow the Git URL
